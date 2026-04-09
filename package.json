@@ -1,0 +1,121 @@
+{
+  "name": "lol-draft",
+  "version": "0.1.0",
+  "private": true,
+  "main": "electron/main.js",
+  "homepage": "./",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "electron": "electron .",
+    "electron:dev": "concurrently \"npm run dev\" \"wait-on http://localhost:3000 && electron .\"",
+    "electron:build": "npm run build && cross-env CSC_IDENTITY_AUTO_DISCOVERY=false electron-builder",
+    "electron:build:win": "node create-icon.js && npm run build && node prepare-electron-build.js && electron-packager . \"LoL Draft Tool\" --platform=win32 --arch=x64 --out=dist --overwrite --asar --icon=icon.ico --extra-resource=\".next/standalone\" --ignore=\"node_modules/(electron-packager|electron-builder|@electron|concurrently|wait-on)\" && node apply-icon.js",
+    "electron:build:mac": "npm run build && electron-builder --mac",
+    "electron:build:linux": "npm run build && electron-builder --linux"
+  },
+  "dependencies": {
+    "next": "16.0.10",
+    "react": "19.2.1",
+    "react-dom": "19.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "concurrently": "^8.2.2",
+    "cross-env": "^10.1.0",
+    "electron": "^32.3.3",
+    "electron-builder": "^25.1.8",
+    "electron-packager": "^17.1.2",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.10",
+    "jimp": "^1.6.0",
+    "png-to-ico": "^3.0.1",
+    "rcedit": "^5.0.2",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4",
+    "typescript": "^5",
+    "wait-on": "^8.0.5"
+  },
+  "build": {
+    "appId": "com.loldraft.app",
+    "productName": "LoL Draft Tool",
+    "directories": {
+      "output": "dist",
+      "buildResources": "build"
+    },
+    "beforeBuild": null,
+    "asar": true,
+    "asarUnpack": [
+      ".next/standalone/**/*",
+      ".next/static/**/*"
+    ],
+    "files": [
+      ".next/standalone/**/*",
+      ".next/static/**/*",
+      "electron/**/*",
+      "public/**/*",
+      "package.json",
+      "!node_modules/**/*",
+      "!**/*.ts",
+      "!**/*.tsx",
+      "!**/*.js.map",
+      "!**/*.ts.map",
+      "!tsconfig.json",
+      "!next.config.ts",
+      "!eslint.config.mjs"
+    ],
+    "extraFiles": [
+      {
+        "from": ".next/standalone",
+        "to": ".next/standalone",
+        "filter": [
+          "**/*"
+        ]
+      },
+      {
+        "from": ".next/static",
+        "to": ".next/static",
+        "filter": [
+          "**/*"
+        ]
+      }
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "dir",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "public/favicon.ico",
+      "sign": null,
+      "verifyUpdateCodeSignature": false,
+      "signingHashAlgorithms": null,
+      "certificateFile": null,
+      "certificatePassword": null
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "public/favicon.ico",
+      "category": "public.app-category.games"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "public/favicon.ico",
+      "category": "Game"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}

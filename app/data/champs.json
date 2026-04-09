@@ -1,0 +1,3716 @@
+[
+  {
+    "name": "Aatrox",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "aatrox",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "drain-fighter",
+      "teamfight",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Ahri",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "ahri",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "pick",
+      "skirmish",
+      "apc"
+    ]
+  },
+  {
+    "name": "Akali",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "akali",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "dive",
+      "skirmish",
+      "apc"
+    ]
+  },
+  {
+    "name": "Akshan",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "akshan",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "roaming",
+      "pick",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Alistar",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "alistar",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "frontline",
+      "engage",
+      "disengage"
+    ]
+  },
+  {
+    "name": "Ambessa",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "ambessa",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "frontline",
+      "teamfight",
+      "duelist"
+    ]
+  },
+  {
+    "name": "Amumu",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "amumu",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "teamfight",
+      "aoe-engage",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Anivia",
+    "roles": [
+      "top",
+      "mid",
+      "support"
+    ],
+    "iconKey": "anivia",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "support",
+      "zone-control",
+      "waveclear",
+      "objective-setup",
+      "apc"
+    ]
+  },
+  {
+    "name": "Annie",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "annie",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "pick",
+      "aoe-stun",
+      "apc"
+    ]
+  },
+  {
+    "name": "Aphelios",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "aphelios",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "dps-carry",
+      "item-dependent",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "ashe",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "poke",
+      "pick",
+      "utility-ult",
+      "marksman"
+    ]
+  },
+  {
+    "name": "AurelionSol",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "aurelionsol",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "roaming",
+      "scaling",
+      "aoe-damage",
+      "apc"
+    ]
+  },
+  {
+    "name": "Aurora",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "aurora",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "skirmish",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Azir",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "azir",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "teamfight",
+      "zone-control",
+      "front-to-back",
+      "apc"
+    ]
+  },
+  {
+    "name": "Bard",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "bard",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "roaming",
+      "pick",
+      "utility-ult"
+    ]
+  },
+  {
+    "name": "Belveth",
+    "roles": [],
+    "iconKey": "belveth",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "dps-carry",
+      "scales-with-items",
+      "objective-melt"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "blitzcrank",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "pick",
+      "hook",
+      "engage"
+    ]
+  },
+  {
+    "name": "Brand",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "brand",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "aoe-damage",
+      "poke"
+    ]
+  },
+  {
+    "name": "Braum",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "braum",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "frontline",
+      "peel",
+      "disengage"
+    ]
+  },
+  {
+    "name": "Briar",
+    "roles": [],
+    "iconKey": "briar",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "dive",
+      "aoe-dps"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "caitlyn",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "siege",
+      "lane-bully",
+      "trap-control",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Camille",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "camille",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "splitpush",
+      "pick",
+      "dive"
+    ]
+  },
+  {
+    "name": "Cassiopeia",
+    "roles": [
+      "top",
+      "mid",
+      "bot"
+    ],
+    "iconKey": "cassiopeia",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "bot",
+      "dps-mage",
+      "teamfight"
+    ]
+  },
+  {
+    "name": "Chogath",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "chogath",
+    "scaling": "late",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "tank",
+      "objective-secure",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Corki",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "corki",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "mixed-damage",
+      "poke",
+      "siege"
+    ]
+  },
+  {
+    "name": "Darius",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "darius",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "lane-bully",
+      "frontline",
+      "teamfight-reset"
+    ]
+  },
+  {
+    "name": "Diana",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "diana",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "mid",
+      "aoe-engage",
+      "dive",
+      "apc"
+    ]
+  },
+  {
+    "name": "Draven",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "draven",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "lane-bully",
+      "snowball",
+      "marksman"
+    ]
+  },
+  {
+    "name": "DrMundo",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "drmundo",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "frontline",
+      "hp-stack"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "ekko",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "jungle",
+      "skirmish",
+      "dive",
+      "apc"
+    ]
+  },
+  {
+    "name": "Elise",
+    "roles": [
+      "jungle",
+      "support"
+    ],
+    "iconKey": "elise",
+    "scaling": "early",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "support",
+      "early-dive",
+      "tower-dive"
+    ]
+  },
+  {
+    "name": "Evelynn",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "evelynn",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "stealth",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "ezreal",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "safe-pick",
+      "poke",
+      "kite"
+    ]
+  },
+  {
+    "name": "Fiddlesticks",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "fiddlesticks",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "support",
+      "aoe-engage",
+      "fog-of-war",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Fiora",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "fiora",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "splitpush",
+      "duelist",
+      "side-lane-threat"
+    ]
+  },
+  {
+    "name": "Fizz",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "fizz",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "pick",
+      "single-target-burst",
+      "dive",
+      "apc"
+    ]
+  },
+  {
+    "name": "Galio",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "galio",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "support",
+      "frontline",
+      "wombo-combo",
+      "anti-magic",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "gangplank",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "mid",
+      "global-ult",
+      "poke",
+      "scaling"
+    ]
+  },
+  {
+    "name": "Garen",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "garen",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "juggernaut",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Gnar",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "gnar",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "teamfight",
+      "splitpush",
+      "transform"
+    ]
+  },
+  {
+    "name": "Gragas",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "gragas",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "disengage",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Graves",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "graves",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "farming",
+      "bruiser",
+      "invade"
+    ]
+  },
+  {
+    "name": "Gwen",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "gwen",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "duelist",
+      "anti-tank",
+      "side-lane-threat",
+      "apc"
+    ]
+  },
+  {
+    "name": "Hecarim",
+    "roles": [],
+    "iconKey": "hecarim",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "dive",
+      "aoe-engage"
+    ]
+  },
+  {
+    "name": "Heimerdinger",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "heimerdinger",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "siege",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Hwei",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "hwei",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "poke",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Illaoi",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "illaoi",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "juggernaut",
+      "aoe-dps",
+      "splitpush"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "irelia",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "reset-snowball",
+      "dive"
+    ]
+  },
+  {
+    "name": "Ivern",
+    "roles": [],
+    "iconKey": "ivern",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "peel",
+      "supportive",
+      "objective-control"
+    ]
+  },
+  {
+    "name": "Janna",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "janna",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "peel",
+      "disengage",
+      "anti-dive"
+    ]
+  },
+  {
+    "name": "JarvanIV",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "jarvaniv",
+    "scaling": "early",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "engage",
+      "frontline",
+      "gank-heavy"
+    ]
+  },
+  {
+    "name": "Jax",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "jax",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "duelist",
+      "side-lane-threat"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "roles": [
+      "top",
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "jayce",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "jungle",
+      "poke",
+      "siege",
+      "burst"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "jhin",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "pick",
+      "poke",
+      "utility-ult",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "jinx",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "none",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "dps-carry",
+      "teamfight",
+      "needs-frontline",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Kaisa",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "kaisa",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "dive-followup",
+      "mixed-damage",
+      "teamfight",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Kalista",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "kalista",
+    "scaling": "early",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "lane-bully",
+      "objective-control",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Karma",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "karma",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "poke",
+      "shield"
+    ]
+  },
+  {
+    "name": "Karthus",
+    "roles": [
+      "jungle",
+      "bot"
+    ],
+    "iconKey": "karthus",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "mid",
+      "bot",
+      "aoe-damage",
+      "global-ult",
+      "scaling",
+      "apc"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "kassadin",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "scaling",
+      "anti-mage"
+    ]
+  },
+  {
+    "name": "Katarina",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "katarina",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "reset-snowball",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "kayle",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "scaling",
+      "teamfight"
+    ]
+  },
+  {
+    "name": "Kayn",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "kayn",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "form-dependent",
+      "flank",
+      "dive"
+    ]
+  },
+  {
+    "name": "Kennen",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "kennen",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "mid",
+      "aoe-engage",
+      "teamfight",
+      "apc"
+    ]
+  },
+  {
+    "name": "Khazix",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "khazix",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "pick",
+      "isolation-burst"
+    ]
+  },
+  {
+    "name": "Kindred",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "kindred",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "marksman",
+      "objective-focus"
+    ]
+  },
+  {
+    "name": "Kled",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "kled",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "engage",
+      "duelist",
+      "snowball"
+    ]
+  },
+  {
+    "name": "Kogmaw",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "kogmaw",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "hypercarry"
+    ]
+  },
+  {
+    "name": "KSante",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "ksante",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "frontline",
+      "wombo-combo"
+    ]
+  },
+  {
+    "name": "Leblanc",
+    "roles": [
+      "mid",
+      "support"
+    ],
+    "iconKey": "leblanc",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "support",
+      "pick",
+      "burst",
+      "roaming",
+      "apc"
+    ]
+  },
+  {
+    "name": "LeeSin",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "leesin",
+    "scaling": "early",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "playmaker",
+      "early-tempo"
+    ]
+  },
+  {
+    "name": "Leona",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "leona",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "engage",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Lillia",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "lillia",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "aoe-damage"
+    ]
+  },
+  {
+    "name": "Lissandra",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "lissandra",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "pick",
+      "teamfight",
+      "apc"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "lucian",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "skirmish",
+      "lane-bully",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "lulu",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "peel",
+      "hypercarry-support"
+    ]
+  },
+  {
+    "name": "Lux",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "lux",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "poke",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Malphite",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "malphite",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "aoe-engage",
+      "anti-ad",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Malzahar",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "malzahar",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "point-click-cc",
+      "anti-assassin",
+      "apc"
+    ]
+  },
+  {
+    "name": "Maokai",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "maokai",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "support",
+      "frontline",
+      "pick",
+      "objective-control",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "MasterYi",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "masteryi",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "none",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "dps",
+      "reset",
+      "farm-heavy"
+    ]
+  },
+  {
+    "name": "Mel",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "mel",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "low",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "mid",
+      "skirmisher",
+      "tempo",
+      "pick",
+      "snowball",
+      "apc"
+    ]
+  },
+  {
+    "name": "Milio",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "milio",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "hypercarry-support",
+      "anti-cc"
+    ]
+  },
+  {
+    "name": "MissFortune",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "missfortune",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "poke",
+      "aoe-damage",
+      "marksman"
+    ]
+  },
+  {
+    "name": "MonkeyKing",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "monkeyking",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "teamfight",
+      "aoe-engage"
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "mordekaiser",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "anti-carry",
+      "duelist"
+    ]
+  },
+  {
+    "name": "Morgana",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "morgana",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "pick",
+      "anti-cc"
+    ]
+  },
+  {
+    "name": "Mundo",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "mundo",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "jungle",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Naafiri",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "naafiri",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "skirmish",
+      "pick"
+    ]
+  },
+  {
+    "name": "Nami",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "nami",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "peel",
+      "engage",
+      "lane-bully"
+    ]
+  },
+  {
+    "name": "Nasus",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "nasus",
+    "scaling": "late",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "scaling",
+      "juggernaut",
+      "side-lane"
+    ]
+  },
+  {
+    "name": "Nautilus",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "nautilus",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "engage",
+      "frontline",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Neeko",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "neeko",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "pick",
+      "aoe-engage"
+    ]
+  },
+  {
+    "name": "Nidalee",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "nidalee",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "none",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "apc",
+      "invade",
+      "skirmish",
+      "heal"
+    ]
+  },
+  {
+    "name": "Nilah",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "nilah",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "aoe-dps",
+      "support-synergy",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Nocturne",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "nocturne",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "global-pressure",
+      "pick"
+    ]
+  },
+  {
+    "name": "Nunu&Willump",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "nunu",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "objective-secure",
+      "gank-heavy"
+    ]
+  },
+  {
+    "name": "Olaf",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "olaf",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "anti-cc",
+      "duelist"
+    ]
+  },
+  {
+    "name": "Orianna",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "orianna",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "teamfight",
+      "aoe-wombo",
+      "apc"
+    ]
+  },
+  {
+    "name": "Ornn",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "ornn",
+    "scaling": "late",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "teamfight",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Pantheon",
+    "roles": [
+      "top",
+      "jungle",
+      "mid",
+      "support"
+    ],
+    "iconKey": "pantheon",
+    "scaling": "early",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "jungle",
+      "support",
+      "dive",
+      "skirmish",
+      "snowball"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "roles": [
+      "top",
+      "jungle",
+      "support"
+    ],
+    "iconKey": "poppy",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "support",
+      "anti-dive",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Pyke",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "pyke",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "pick",
+      "roaming"
+    ]
+  },
+  {
+    "name": "Qiyana",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "qiyana",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "jungle",
+      "burst",
+      "aoe-wombo",
+      "pick"
+    ]
+  },
+  {
+    "name": "Quinn",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "quinn",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "roaming",
+      "mid",
+      "anti-melee",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "rakan",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "engage",
+      "roaming",
+      "wombo-combo"
+    ]
+  },
+  {
+    "name": "Rammus",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "rammus",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "anti-ad",
+      "frontline",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Reksai",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "reksai",
+    "scaling": "early",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "early-tempo",
+      "anti-carry"
+    ]
+  },
+  {
+    "name": "Rell",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "rell",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "engage",
+      "frontline"
+    ]
+  },
+  {
+    "name": "RenataGlasc",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "renataglasc",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "peel",
+      "anti-dive"
+    ]
+  },
+  {
+    "name": "Renekton",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "renekton",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "lane-bully",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Rengar",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "rengar",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "pick",
+      "burst",
+      "vision-control"
+    ]
+  },
+  {
+    "name": "Riven",
+    "roles": [
+      "top",
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "riven",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "mid",
+      "jungle",
+      "reset",
+      "skirmish",
+      "duelist"
+    ]
+  },
+  {
+    "name": "Rumble",
+    "roles": [
+      "top",
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "rumble",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "mid",
+      "jungle",
+      "aoe-damage",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Ryze",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "ryze",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "scaling",
+      "roaming",
+      "apc"
+    ]
+  },
+  {
+    "name": "Samira",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "samira",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "aoe-dps",
+      "reset",
+      "anti-peel",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Sejuani",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "sejuani",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "frontline",
+      "teamfight",
+      "cc-chain",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Senna",
+    "roles": [
+      "bot",
+      "support"
+    ],
+    "iconKey": "senna",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "bot",
+      "poke",
+      "scaling"
+    ]
+  },
+  {
+    "name": "Seraphine",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "seraphine",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "aoe-cc",
+      "teamfight"
+    ]
+  },
+  {
+    "name": "Sett",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "sett",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "skirmish",
+      "anti-dive"
+    ]
+  },
+  {
+    "name": "Shaco",
+    "roles": [
+      "jungle",
+      "support"
+    ],
+    "iconKey": "shaco",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "none",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "support",
+      "pick",
+      "stealth",
+      "trap"
+    ]
+  },
+  {
+    "name": "Shen",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "shen",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "global-ult",
+      "frontline",
+      "protect"
+    ]
+  },
+  {
+    "name": "Shyvana",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "shyvana",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "farm-heavy",
+      "aoe-dps",
+      "scaling"
+    ]
+  },
+  {
+    "name": "Singed",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "singed",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "roaming",
+      "disruptor"
+    ]
+  },
+  {
+    "name": "Sion",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "sion",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "frontline",
+      "engage"
+    ]
+  },
+  {
+    "name": "Sivir",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "sivir",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "teamfight",
+      "waveclear",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Skarner",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "skarner",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "pick",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Smolder",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "smolder",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "scaling",
+      "poke",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Sona",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "sona",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "aoe-ult",
+      "scaling"
+    ]
+  },
+  {
+    "name": "Soraka",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "soraka",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "heal",
+      "anti-poke"
+    ]
+  },
+  {
+    "name": "Swain",
+    "roles": [
+      "mid",
+      "support"
+    ],
+    "iconKey": "swain",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "support",
+      "aoe-dps"
+    ]
+  },
+  {
+    "name": "Sylas",
+    "roles": [
+      "top",
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "sylas",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "jungle",
+      "skirmish",
+      "apc"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "syndra",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "poke",
+      "pick",
+      "burst",
+      "apc"
+    ]
+  },
+  {
+    "name": "TahmKench",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "tahmkench",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "strong",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "peel",
+      "anti-dive"
+    ]
+  },
+  {
+    "name": "Taliyah",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "taliyah",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "jungle",
+      "roaming",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Talon",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "talon",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "jungle",
+      "roaming",
+      "burst"
+    ]
+  },
+  {
+    "name": "Taric",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "taric",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "frontline",
+      "aoe-ult"
+    ]
+  },
+  {
+    "name": "Teemo",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "teemo",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "poke",
+      "zone-control"
+    ]
+  },
+  {
+    "name": "Thresh",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "thresh",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "pick",
+      "engage"
+    ]
+  },
+  {
+    "name": "Tristana",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "tristana",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "mid",
+      "dive",
+      "reset",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Trundle",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "trundle",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "anti-tank"
+    ]
+  },
+  {
+    "name": "Tryndamere",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "tryndamere",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "mid",
+      "splitpush",
+      "duelist"
+    ]
+  },
+  {
+    "name": "TwistedFate",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "twistedfate",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "global-ult",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Twitch",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "twitch",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "stealth",
+      "teamfight",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Udyr",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "udyr",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "aoe-dps"
+    ]
+  },
+  {
+    "name": "Urgot",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "urgot",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "anti-carry",
+      "frontline"
+    ]
+  },
+  {
+    "name": "Varus",
+    "roles": [
+      "top",
+      "bot"
+    ],
+    "iconKey": "varus",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "needs",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "top",
+      "poke",
+      "burst",
+      "mixed-damage",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Vayne",
+    "roles": [
+      "top",
+      "bot"
+    ],
+    "iconKey": "vayne",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "top",
+      "duelist",
+      "hypercarry",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Veigar",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "veigar",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "zone-control",
+      "scaling",
+      "apc"
+    ]
+  },
+  {
+    "name": "Velkoz",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "velkoz",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "poke",
+      "aoe-damage",
+      "apc"
+    ]
+  },
+  {
+    "name": "Vex",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "vex",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "anti-dash",
+      "pick",
+      "apc"
+    ]
+  },
+  {
+    "name": "Vi",
+    "roles": [],
+    "iconKey": "vi",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "high",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "engage",
+      "gank-heavy"
+    ]
+  },
+  {
+    "name": "Viego",
+    "roles": [],
+    "iconKey": "viego",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungler",
+      "reset",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Viktor",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "viktor",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "scaling",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Vladimir",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "vladimir",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "scaling",
+      "aoe-damage",
+      "apc"
+    ]
+  },
+  {
+    "name": "Volibear",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "volibear",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "diver",
+      "tower-dive"
+    ]
+  },
+  {
+    "name": "Warwick",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "warwick",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "duelist"
+    ]
+  },
+  {
+    "name": "Xayah",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "xayah",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "self-peel",
+      "teamfight",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Xerath",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "xerath",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "poke",
+      "siege",
+      "apc"
+    ]
+  },
+  {
+    "name": "XinZhao",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "xinzhao",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "duelist",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Yasuo",
+    "roles": [
+      "top",
+      "mid",
+      "bot"
+    ],
+    "iconKey": "yasuo",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "medium",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "bot",
+      "aoe-wombo",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Yone",
+    "roles": [
+      "top",
+      "mid"
+    ],
+    "iconKey": "yone",
+    "scaling": "mid",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "top",
+      "aoe-engage",
+      "skirmish"
+    ]
+  },
+  {
+    "name": "Yorick",
+    "roles": [
+      "top"
+    ],
+    "iconKey": "yorick",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "low",
+    "engage": "low",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "top",
+      "splitpush",
+      "siege"
+    ]
+  },
+  {
+    "name": "Yunara",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "yunara",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "medium",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "zone-control",
+      "objective-control",
+      "teamfight",
+      "poke"
+    ]
+  },
+  {
+    "name": "Yuumi",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "yuumi",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "strong",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "hypercarry-support",
+      "scaling"
+    ]
+  },
+  {
+    "name": "Zaahen",
+    "roles": [
+      "top",
+      "jungle"
+    ],
+    "iconKey": "zaahen",
+    "scaling": "late",
+    "durability": "medium",
+    "cc": "medium",
+    "engage": "high",
+    "peel": "low",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "frontline",
+      "diver",
+      "teamfight",
+      "skirmisher"
+    ]
+  },
+  {
+    "name": "Zac",
+    "roles": [
+      "jungle"
+    ],
+    "iconKey": "zac",
+    "scaling": "mid",
+    "durability": "high",
+    "cc": "high",
+    "engage": "high",
+    "peel": "strong",
+    "range": "short",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "jungle",
+      "top",
+      "support",
+      "engage",
+      "frontline",
+      "ap-tank"
+    ]
+  },
+  {
+    "name": "Zed",
+    "roles": [
+      "jungle",
+      "mid"
+    ],
+    "iconKey": "zed",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "high",
+    "peel": "none",
+    "range": "melee",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "jungle",
+      "pick",
+      "burst"
+    ]
+  },
+  {
+    "name": "Zeri",
+    "roles": [
+      "bot"
+    ],
+    "iconKey": "zeri",
+    "scaling": "late",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "needs",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "bot",
+      "kite",
+      "mobility",
+      "marksman"
+    ]
+  },
+  {
+    "name": "Ziggs",
+    "roles": [
+      "mid",
+      "bot"
+    ],
+    "iconKey": "ziggs",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "low",
+    "engage": "low",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "bot",
+      "siege",
+      "zone-control",
+      "apc"
+    ]
+  },
+  {
+    "name": "Zilean",
+    "roles": [
+      "support"
+    ],
+    "iconKey": "zilean",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "low",
+    "peel": "utility",
+    "range": "medium",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "mid",
+      "utility",
+      "speed"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "roles": [
+      "mid"
+    ],
+    "iconKey": "zoe",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "medium",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "mid",
+      "pick",
+      "poke",
+      "apc"
+    ]
+  },
+  {
+    "name": "Zyra",
+    "roles": [
+      "bot",
+      "support"
+    ],
+    "iconKey": "zyra",
+    "scaling": "mid",
+    "durability": "low",
+    "cc": "high",
+    "engage": "medium",
+    "peel": "utility",
+    "range": "long",
+    "archetype": null,
+    "lanePrio": null,
+    "tags": [
+      "support",
+      "bot",
+      "zone-control"
+    ]
+  }
+]

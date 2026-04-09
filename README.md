@@ -31,6 +31,23 @@ npm install
 npm run dev
 ```
 
+### LoL Draft Tool (Next.js + Electron)
+
+A League of Legends draft simulator with data-driven champion selection based on Master+ winrate statistics from LoLalytics.
+
+Run locally (web):
+
+```bash
+npm install
+npm run dev
+```
+
+Run locally (desktop/Electron):
+
+```bash
+npm run electron:dev
+```
+
 ## Notes
 
 - `project1/.env` is intentionally ignored. Set `RIOT_API_KEY` locally.
