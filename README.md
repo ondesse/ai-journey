@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# LoL Draft Tool
 
-## Getting Started
+A League of Legends draft simulator with data-driven champion selection based on Master+ winrate statistics from LoLalytics.
 
-First, run the development server:
+## Features
 
+- **Data-Driven Drafting**: Uses comprehensive matchup and synergy data from LoLalytics (Master+ tier)
+- **Smart Counter Picking**: Automatically suggests champions that counter the enemy team
+- **Team Composition**: Enforces balanced team compositions (ADC, APC, Tank requirements)
+- **Pick Swapping**: Swap pick order with teammates during the draft
+- **Real-Time Timers**: 12-second timers for enemy/teammate picks, 20-second timer for your picks
+
+## Running as Desktop App (Electron)
+
+### Development
+
+1. Install dependencies:
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Run in development mode:
+```bash
+npm run electron:dev
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This will start the Next.js dev server and open the Electron app.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Building for Distribution
 
-## Learn More
+#### Windows
+```bash
+npm run electron:build:win
+```
 
-To learn more about Next.js, take a look at the following resources:
+This creates a Windows installer in the `dist` folder that you can share with friends.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### macOS
+```bash
+npm run electron:build:mac
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+#### Linux
+```bash
+npm run electron:build:linux
+```
 
-## Deploy on Vercel
+#### All Platforms
+```bash
+npm run electron:build
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The built installer/executable will be in the `dist` folder.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Running as Web App
+
+### Development
+```bash
+npm run dev
+```
+
+Then open [http://localhost:3000](http://localhost:3000)
+
+### Production Build
+```bash
+npm run build
+npm start
+```
+
+## How to Share the App
+
+After building, you'll find the installer in the `dist` folder:
+- **Windows**: `LoL Draft Tool Setup X.X.X.exe` - Share this file
+- **macOS**: `LoL Draft Tool-X.X.X.dmg` - Share this file
+- **Linux**: `LoL Draft Tool-X.X.X.AppImage` - Share this file
+
+Your friends just need to:
+1. Download the installer
+2. Run it to install
+3. Launch "LoL Draft Tool" from their applications
+
+## Data
+
+The app uses matchup data scraped from LoLalytics stored in `app/data/matchup_data.json`. This includes:
+- Matchup winrates (champion vs champion)
+- Synergy winrates (favorable role matchups)
+
+## License
+
+Private project - not for distribution beyond personal use.

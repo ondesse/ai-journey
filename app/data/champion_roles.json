@@ -1,0 +1,40 @@
+{
+  "apCarries": [
+    "Ahri", "Akali", "Anivia", "Annie", "AurelionSol", "Aurora", "Azir", "Brand",
+    "Cassiopeia", "Diana", "Ekko", "Elise", "Evelynn", "Fiddlesticks", "Fizz",
+    "Gragas", "Gwen", "Heimerdinger", "Hwei", "Karthus", "Kennen", "Leblanc",
+    "Lissandra", "Lux", "Malzahar", "Mel", "Nidalee", "Orianna",
+    "Rumble", "Ryze", "Sylas", "Taliyah", "TwistedFate", "Veigar", "Velkoz",
+    "Vex", "Viktor", "Vladimir", "Xerath", "Ziggs", "Zoe", "Zyra"
+  ],
+  "apTanks": [
+    "Amumu", "Galio", "Malphite", "Maokai", "Nautilus", "Rammus", "Sejuani", "Zac"
+  ],
+  "adcs": [
+    "Aphelios", "Ashe", "Akshan", "Caitlyn", "Draven", "Jhin", "Jinx", "Kaisa",
+    "Kalista", "Kindred", "Lucian", "MissFortune", "Nilah", "Quinn", "Samira",
+    "Sivir", "Smolder", "Tristana", "Twitch", "Varus", "Vayne", "Xayah", "Zeri"
+  ],
+  "tanks": [
+    "Alistar", "Amumu", "Braum", "Galio", "Leona", "Malphite", "Maokai",
+    "Nautilus", "Nunu", "Ornn", "Poppy", "Rammus", "Rell", "Sejuani", "Shen",
+    "TahmKench", "Taric", "Zac"
+  ],
+  "adBruisers": [
+    "Aatrox", "Camille", "Darius", "Fiora", "Garen", "Gnar", "Gragas", "Gwen",
+    "Hecarim", "Illaoi", "Irelia", "JarvanIV", "Jax", "Jayce", "Kled", "Mordekaiser",
+    "Nasus", "Olaf", "Pantheon", "Renekton", "Riven", "Sett", "Trundle", "Tryndamere",
+    "Udyr", "Urgot", "Vi", "Volibear", "Warwick", "Wukong", "Yasuo", "Yone", "Zed"
+  ],
+  "enchanters": [
+    "Bard", "Janna", "Karma", "Lulu", "Milio", "Nami", "Renata", "Senna",
+    "Seraphine", "Sona", "Soraka", "Yuumi", "Zilean"
+  ],
+  "roleSpecific": {
+    "Fiddlesticks": {
+      "jungle": "apCarry"
+    }
+  }
+}
+
+
